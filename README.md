@@ -15,7 +15,7 @@
 
 ### Hi there 👋 I'm Hemanth Thaluru,
 
-A passionate Web Developer turned Data Science :bar_chart: graduate student, I harbor a profound fascination for deep learning.I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+A passionate Web Developer turned Data Scienctist :bar_chart: , I harbor a profound fascination for deep learning.I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 - 🌱 I’m currently pursuing **Masters in Data Science at University Of Bufallo, New York**
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
