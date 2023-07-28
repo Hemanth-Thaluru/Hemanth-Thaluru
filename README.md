@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hi I'm Hemanth Thaluru,
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi I'm Hemanth Thaluru,
 
 A passionate Web Developer turned Data Scienctist :bar_chart: , I harbor a profound fascination for deep learning.I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
