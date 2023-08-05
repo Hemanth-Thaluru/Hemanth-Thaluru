@@ -30,7 +30,7 @@ A passionate Web Developer turned Data Scienctist :bar_chart: , I harbor a profo
 	<img title="Pytorch" alt="Pytorch" src="assets/pytorch.svg" width="128" style="vertical-align: down; margin: 4px" />
 	</a>	
 	<a href="https://www.hemanth.info" target="_blank">
-	<img title="SKLEARN" alt="Sklearn" src="assets/sklearn.svg" width="128" style="vertical-align: down; margin: 4px" />
+	<img title="Sklearn" alt="Sklearn" src="assets/sklearn.svg" width="128" style="vertical-align: down; margin: 4px" />
 	</a>
 	<a title="Langchain" href="https://commons.wikimedia.org/wiki/File:LangChain_logo.png"><img width="128" alt="LangChain logo" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png"></a>
 </p>
@@ -49,20 +49,20 @@ A passionate Web Developer turned Data Scienctist :bar_chart: , I harbor a profo
 <b>Data Visualiztion</b>
 <p align="center">
 	<a href="https://www.hemanth.info" target="_blank">
-	<img title="Pytorch" alt="Pytorch" src="assets/powerbi.svg" width="64" style="vertical-align: down; margin: 4px" />
+	<img title="PowerBI" alt="PowerBI" src="assets/powerbi.svg" width="64" style="vertical-align: down; margin: 4px" />
 	</a>
 	<a href="https://www.hemanth.info" target="_blank">
-	<img title="Pytorch" alt="Pytorch" src="assets/tableau.svg" width="200" style="vertical-align: down; margin: 4px" />
+	<img title="Tabaleau" alt="Tabaleau" src="assets/tableau.svg" width="200" style="vertical-align: down; margin: 4px" />
 	</a>
 </p>
 
 <b>Full Stack Web Development</b>
 <p align="center">
 	<a href="https://www.hemanth.info" target="_blank">
-	<img title="Pytorch" alt="Pytorch" src="assets/azure.svg" width="128" style="vertical-align: down; margin: 4px" />
+	<img title="Azure" alt="Azure" src="assets/azure.svg" width="128" style="vertical-align: down; margin: 4px" />
 	</a>
 	<a href="https://www.hemanth.info" target="_blank">
-	<img title="Pytorch" alt="Pytorch" src="assets/sql.svg" width="128" style="vertical-align: down; margin: 4px" />
+	<img title="SQL Server" alt="SQL Server" src="assets/sql.svg" width="128" style="vertical-align: down; margin: 4px" />
 	<img title="MySQL" alt="MySQL" src="assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="linux" alt="linux" src="assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
 	</a>
